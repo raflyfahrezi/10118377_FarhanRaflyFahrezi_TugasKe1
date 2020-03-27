@@ -9,7 +9,7 @@ import java.awt.Color;
 
 /**
  *
- * @author Lenovo
+ * @author Farhan Rafly Fahrezi
  */
 public class Main {
     public static void main(String[] args) {
