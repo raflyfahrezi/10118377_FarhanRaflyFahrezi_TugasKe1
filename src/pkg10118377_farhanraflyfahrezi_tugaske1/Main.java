@@ -6,7 +6,6 @@
 package pkg10118377_farhanraflyfahrezi_tugaske1;
 
 import java.awt.Color;
-import javax.swing.SwingConstants;
 
 /**
  *
