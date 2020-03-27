@@ -5,17 +5,23 @@
  */
 package pkg10118377_farhanraflyfahrezi_tugaske1;
 
+import java.awt.Color;
+import javax.swing.SwingConstants;
+
 /**
  *
  * @author Lenovo
  */
 public class Main {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        layout layout_obj = new layout();
+        
+        layout_obj.setTitle("10118377");
+        layout_obj.getNama().setForeground(Color.WHITE);
+        layout_obj.getNim().setForeground(Color.WHITE);
+        layout_obj.getKelas().setForeground(Color.WHITE);
+        layout_obj.getContentPane().setBackground(Color.DARK_GRAY);
+        layout_obj.setLocationRelativeTo(null);
+        layout_obj.setVisible(true);
     }
-    
 }
